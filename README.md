@@ -14,7 +14,7 @@
 
 ### 在线运行
 你可以通过以下链接直接在浏览器中运行
-- [项目发布页面](Pages打包链接) 
+- [项目发布页面](https://xuanexe-system666.github.io/ZThrix-The-Game/) 
 
 ### 离线代码
 1. 下载本仓库中的 `ZThrix.sb3` 文件。
