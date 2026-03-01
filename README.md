@@ -24,6 +24,15 @@
 2. 打开[TurboWarp 在线版编辑器](https://turbowarp.org/editor)或下载并打开[离线编辑器](https://desktop.turbowarp.org/)
 3. 从文件中加载 `ZThrix.sb3` 并点击绿旗开始。
 
+### 如何打包
+如果你希望打包这个项目，务必使用[TurboWarp Packager](https://packager.turbowarp.org/)
+
+#### 打包步骤
+1. 在Packager中选择已下载的本仓库中的`Zthrix.sb3`文件
+2. 鼠标滚轮滚到最下方，点击导入设置并选择其它素材文件夹中的`Zthrix打包设置.json`文件
+3. 用鼠标滚轮往上走，选择想要的格式
+4. 点击打包并下载
+
 ### 项目文件
 - `ZThrix.sb3` - Scratch 项目文件
 - `其它素材\LOGO.svg` - 项目LOGO矢量设计图
@@ -58,6 +67,15 @@ You can run the game directly in your browser via the link below:
 1. Download the `ZThrix.sb3` file from this repository.
 2. Open the [TurboWarp Online Editor](https://turbowarp.org/editor) or download and open the [Offline Editor](https://desktop.turbowarp.org/).
 3. Load the `ZThrix.sb3` file and click the green flag to start.
+
+### How to Package
+If you wish to package this project, you have to use the [TurboWarp Packager](https://packager.turbowarp.org/).
+
+#### Packaging Steps
+1. In the Packager, select the downloaded `Zthrix.sb3` file from this repository.
+2. Scroll to the very bottom, click "Import Settings" and choose the `Zthrix打包设置.json` file from the `Other_Assets` folder.
+3. Scroll back up and select your desired format.
+4. Click "Package" and download.
 
 ### Project Files
 - `ZThrix.sb3` - Scratch project file
