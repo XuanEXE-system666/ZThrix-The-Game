@@ -16,7 +16,7 @@
 
 ### 在线运行
 你可以通过以下链接直接在浏览器中运行
-- [项目网页版游玩](https://xuanexe-system666.github.io/ZThrix-The-Game/) 
+- [项目网页版游玩](https://xuanexe-system666.github.io/ZThrix-The-Game/Web) 
 
 ### 离线代码
 1. 下载本仓库中的 `ZThrix.sb3` 文件。
@@ -31,11 +31,6 @@
 2. 鼠标滚轮滚到最下方，点击导入设置并选择其它素材文件夹中的`Zthrix打包设置.json`文件
 3. 用鼠标滚轮往上走，选择想要的格式
 4. 点击打包并下载
-
-## 项目文件
-- `ZThrix.sb3` - Scratch 项目文件
-- `其它素材\LOGO.svg` - 项目LOGO矢量设计图
-- `其它素材\ZThrix打包设置` - 作者已配置好的TurboWarp打包设置
 
 ## 作者
 - [XuanEXE-system666](https://github.com/XuanEXE-system666)

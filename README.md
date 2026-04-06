@@ -16,7 +16,7 @@ This is a classic Tetris game made with TurboWarp. It features complete game log
 
 ### Play Online
 You can run the game directly in your browser via the link below:
-- [Play the Web Version](https://xuanexe-system666.github.io/ZThrix-The-Game/)
+- [Play the Web Version](https://xuanexe-system666.github.io/ZThrix-The-Game/Web)
 
 ### Offline Code
 1. Download the `ZThrix.sb3` file from this repository.
@@ -31,11 +31,6 @@ If you wish to package this project, you have to use the [TurboWarp Packager](ht
 2. Scroll to the very bottom, click "Import Settings" and choose the `Zthrix打包设置.json` file from the `Other_Assets` folder.
 3. Scroll back up and select your desired format.
 4. Click "Package" and download.
-
-## Project Files
-- `ZThrix.sb3` - Scratch project file
-- `Other_Assets/LOGO.svg` - Project logo vector design
-- `Other_Assets/ZThrix打包设置` - Pre-configured TurboWarp packaging settings by the author
 
 ## Author
 - [XuanEXE-system666](https://github.com/XuanEXE-system666)
