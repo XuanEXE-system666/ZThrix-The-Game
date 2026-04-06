@@ -19,9 +19,15 @@
 - [项目网页版游玩](https://xuanexe-system666.github.io/ZThrix-The-Game/Web) 
 
 ### 离线代码
-1. 下载本仓库中的 `ZThrix.sb3` 文件。
+1. 下载本仓库`源代码`文件夹中的 `ZThrix.sb3` 文件。
 2. 打开[TurboWarp 在线版编辑器](https://turbowarp.org/editor)或下载并打开[离线编辑器](https://desktop.turbowarp.org/)
 3. 从文件中加载 `ZThrix.sb3` 并点击绿旗开始。
+
+### 离线游玩
+1. 前往本项目的[Release](https://github.com/XuanEXE-system666/ZThrix-The-Game/releases)界面
+2. 下载对应你系统的版本
+3. 使用解压缩软件解压下载的文件压缩包
+4. 点击对应的程序文件运行
 
 ## 如何打包
 如果你希望打包这个项目，务必使用[TurboWarp Packager](https://packager.turbowarp.org/)

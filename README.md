@@ -19,9 +19,15 @@ You can run the game directly in your browser via the link below:
 - [Play the Web Version](https://xuanexe-system666.github.io/ZThrix-The-Game/Web)
 
 ### Offline Code
-1. Download the `ZThrix.sb3` file from this repository.
+1. Download the `ZThrix.sb3` file from the `Source Code` folder in this repository.
 2. Open the [TurboWarp Online Editor](https://turbowarp.org/editor) or download and open the [Offline Editor](https://desktop.turbowarp.org/).
 3. Load the `ZThrix.sb3` file and click the green flag to start.
+
+### Offline Play
+1. Go to the [Releases](https://github.com/XuanEXE-system666/ZThrix-The-Game/releases) page of this project.  
+2. Download the version corresponding to your operating system.  
+3. Use an archive extraction tool to decompress the downloaded file.  
+4. Click the appropriate program file to run it.
 
 ## How to Package
 If you wish to package this project, you have to use the [TurboWarp Packager](https://packager.turbowarp.org/).
