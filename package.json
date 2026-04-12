@@ -1,6 +1,6 @@
 {
   "name": "ZThrix-The-Game",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "一个自制的俄罗斯方块游戏",
   "scripts": {
     "release": "standard-version",
