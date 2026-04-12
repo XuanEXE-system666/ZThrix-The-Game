@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
+* 🐛 更改了版本显示错误的问题 ([49d9928](https://github.com/XuanEXE-system666/ZThrix-The-Game/commit/49d99288c8fd3c059039e7038fc018c377a13ee3))
 * 🐛 修复金币在现代模式显示时间过长的问题 ([ced5269](https://github.com/XuanEXE-system666/ZThrix-The-Game/commit/ced5269eda008143701ec758fecbb9e1b6e27fd7))
 * 🐛 修复了T-spin时分数文字不闪烁的问题 ([5fc9e34](https://github.com/XuanEXE-system666/ZThrix-The-Game/commit/5fc9e34420c8a7760f09a79561cb16c3945cea90))
 
