@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/XuanEXE-system666/ZThrix-The-Game/compare/v1.0.0...v1.1.0) (2026-04-12)
+
+
+### Features
+
+* 🎸 彩蛋“节拍式主题”复活 ([35af32a](https://github.com/XuanEXE-system666/ZThrix-The-Game/commit/35af32a3f7883d1cc920f2fd2d5d7de6145eee86))
+
+
+### Bug Fixes
+
+* 🐛 修复金币在现代模式显示时间过长的问题 ([ced5269](https://github.com/XuanEXE-system666/ZThrix-The-Game/commit/ced5269eda008143701ec758fecbb9e1b6e27fd7))
+* 🐛 修复了T-spin时分数文字不闪烁的问题 ([5fc9e34](https://github.com/XuanEXE-system666/ZThrix-The-Game/commit/5fc9e34420c8a7760f09a79561cb16c3945cea90))
+
 ## 1.0.0 (2026-04-06)
 
 
